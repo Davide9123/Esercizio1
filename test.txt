@@ -5,3 +5,5 @@ test4 branch fastForward
 test5 branch recursiveBranch
 test6 branch conflictBranch
 test7 branch conflictBranchMaster
+test6 branch conflictBranch
+
